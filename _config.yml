@@ -2,11 +2,11 @@
 title: Zgmund
 description: Zgmund
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: https://zgmund.com
 
 # User settings
 username: Zgmund
-user_description: Zgmund
+user_description: Zgmund equips your products with behavioral and emotional grasp of reality. 
 user_title: Psychological API
 avatar_img_path: "/assets/img/AssetZgmund.png"
 email: anon@anon.com
